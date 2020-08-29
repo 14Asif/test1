@@ -3,3 +3,4 @@ Weekdays
 Monday 
 Tuesday
 Wednesday Thursday
+Sunday
