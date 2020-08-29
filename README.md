@@ -2,3 +2,4 @@
 Weekdays
 Monday 
 Tuesday
+Wednesday Thursday
